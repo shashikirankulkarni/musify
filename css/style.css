@@ -1,0 +1,141 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 5 Sep, 2020, 7:09:06 PM
+    Author     : shash
+*/
+
+body{
+    background-color: #14182a !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.custom-text{
+  color: #fff;
+  font-weight: bold;
+  text-align: center !important;
+}
+
+.navbar-custom{
+    background-color: #1b2039;
+    z-index: 10000;
+}
+
+.banner-title{
+    color: #3bc8e7;
+    font-family: 'Montserrat', sans-serif;
+    float:right;
+    padding: 10px 0 0 5px;
+}
+
+.trending-track{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 6px;
+    padding-left: 250px;
+}
+
+.nav-link{
+    color: #3bc8e7 !important;
+    padding-bottom: 15px !important;
+    padding-right: 30px !important;
+}
+.fa-home, .fa-compact-disc, .fa-microphone-alt{
+    padding-right: 10px;
+}
+
+.button-top{
+  padding-top: 4px;
+  padding-left: 580px;
+}
+
+
+
+.custom-button:hover{
+  background: #3cb0fd !important;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db) !important;
+  text-decoration: none;
+}
+
+.banner-image{
+    width: 100%;
+    float: left;
+    padding-left: 50px;
+}
+
+.banner-text{
+    float: right;
+    position: relative;
+    padding: 200px 150px 200px 0;
+
+}
+
+.banner-para{
+    font-size: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #777777;
+    padding-top: 15px;
+    line-height: 2 !important;
+}
+
+.slider-heading{
+  color: #3bc8e7;
+  font-size: 18px;
+  padding-left: 120px;
+  padding-bottom: 10px;
+}
+
+.custom-card{
+  padding-left: 100px !important;
+  padding-right: 100px !important;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+  }
+
+/* h1:after {
+      width: 100px;
+      height: 5px;
+      content: "";
+      position: absolute !important;
+      bottom: -30px;
+      left: -475px;
+      z-index: 0;
+      background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+      background: -moz-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+      background: -ms-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+      background: -o-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+  } */
+  .ms_rcnt_box{
+      text-align: center;
+  }
+  .ms_rcnt_box_img{
+      position: relative;
+      border-radius: 10px;
+      overflow: hidden;
+  }
+  
+ .ms_rcnt_box_img img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+  
+#navbarTogglerDemo02{
+    padding-left: 100px;
+}
+
+
+
+
+
